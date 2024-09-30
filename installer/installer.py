@@ -67,7 +67,7 @@ def start_app():
 if __name__ == "__main__":
     global MY_PATH
     
-    MY_PATH = "roop-unleashed"
+    MY_PATH = "roop-unleashed_amd"
 
     
     # Verifies we are in a conda environment
